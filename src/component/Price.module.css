@@ -1,0 +1,26 @@
+.Price {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: row;
+	margin: 0 0 3px 0;
+	color: #ffffff;
+	font-size: 2rem;
+	height: 9rem;
+}
+
+.valute {
+	display: flex;
+	height: 5rem;
+	font-size: 1.1rem;
+	align-items: flex-start;
+	padding: 0 8px 0 0;
+}
+
+.duration {
+	display: flex;
+	height: 2rem;
+	font-size: 1.1rem;
+	align-items: flex-end;
+	padding: 0 0 0 7px;
+}

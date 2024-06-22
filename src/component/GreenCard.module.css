@@ -1,0 +1,13 @@
+.headGreenCard {
+	background-color: rgb(14, 172, 0);
+}
+
+.CardGreen {
+	width: 310px;
+	margin: auto;
+	transition: transform 0.3s ease;
+}
+
+.CardGreen:hover {
+	transform: scale(1.2);
+}
